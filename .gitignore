@@ -1,0 +1,11 @@
+/data
+/data/*
+/sph2pipe_v2.5
+*.e*
+*.o*
+testoutputs
+TsubameOutputs
+/models/dcase2020_fuss_baseline/model_data/*
+/models/dcase2020_desed_fuss_baseline
+/lib
+/models/Diffusionmodel/model_data/*

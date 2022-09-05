@@ -1,0 +1,2 @@
+VoiceExec_name=Disc_park
+NoiseKind=park

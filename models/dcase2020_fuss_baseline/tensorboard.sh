@@ -1,0 +1,1 @@
+tensorboard --logdir /gs/hs0/tga-shinoda/18B11396/sound-separation/models/dcase2020_fuss_baseline/model_data/dcase2020_fuss/baseline_final_train_notreuseparams_counttest_rowlabelloss_manydisctrain/omega_5.0/bird_p3_3_partgrad_omega_5.0

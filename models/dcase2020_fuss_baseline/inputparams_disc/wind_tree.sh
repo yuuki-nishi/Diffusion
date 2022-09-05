@@ -1,0 +1,2 @@
+VoiceExec_name=Disc_wind_tree
+NoiseKind=wind_tree

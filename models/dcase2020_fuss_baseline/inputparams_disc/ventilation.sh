@@ -1,0 +1,2 @@
+VoiceExec_name=Disc_ventilation
+NoiseKind=ventilation

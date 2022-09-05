@@ -1,0 +1,7 @@
+今のところ、p1-1,p2-2
+の時は、def setdb(label):
+  if label in sounddata.personid:
+    return [-5,-1]
+  else:
+    return [-4,-2]
+という状況の時にやってしまったものであることに注意

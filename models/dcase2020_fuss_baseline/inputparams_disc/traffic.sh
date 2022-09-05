@@ -1,0 +1,2 @@
+VoiceExec_name=Disc_traffic
+NoiseKind=traffic
